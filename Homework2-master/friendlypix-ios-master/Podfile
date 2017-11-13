@@ -1,0 +1,15 @@
+# FriendlyPix
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Storage'
+pod 'Firebase/RemoteConfig'
+pod 'Firebase/AdMob'
+pod 'Firebase/Invites'
+pod 'Firebase/Messaging'
+pod 'FirebaseUI'
+pod 'STXDynamicTableView'
+
+target 'FriendlyPix'
